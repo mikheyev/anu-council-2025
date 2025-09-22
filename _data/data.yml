@@ -4,283 +4,94 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Sasha (Alexander) Mikheyev
+  tagline: Professor, Research School of Biology
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+  email: alexander.mikheyev@anu.edu.au
+  phone: 0490123456
+  bluesky: '@sasha-mikheyev-anu.bsky.social' 
 
   interests:
-    title: Interests
+    title: Sasha outside ANU
     info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
+    - item: Father
+    - item: A junior doctor's husband
+    - item: Aspiring cellist
 
 
 career-profile:
-  title: Career Profile
+  title: About Me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    For the last ten years, ANU has been my home. I've spent six of those years working in College leadership, which has given me an inside look at how our university is run. I'm running for Council because I saw how close we came to losing our University and I want make sure that this doesn't happen again. I believe that the way to do this, is to make your voice heard. I'll fight for transparency, fairness, and accountability in every decision that affects our community.
+    As part of my campaign, I am collecting your ideas about what the Council should do. If I am elected, I will aim to make them happen. Otherwise, I will summarise them for the other elected member. [Make your voice heard!](https://docs.google.com/forms/d/e/1FAIpQLSfiOa9Ce0l4wmBOQvItpUWl-OH237nVPh-wByl36nm2Go97gA/viewform?usp=header)
+
 education:
-  title: Education
+  title: Platform
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Working to restore democratic control of Council
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Our Council's current corporate structure was a recent political decision to silence the community's voice by making elected members a minority. We must lobby parliament to reverse it.
+  - degree: Hiring the right Vice-Chancellor
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      We need an experienced administrator with a strong academic background, who is focused on growth, not cost-cutting, and who understands and respects the university community. Council must oversee this process to make sure that the candidate has a clear plan and is unwaveringly dedicated to the success of ANU.
+  - degree: Listening to the ANU community
+    details: |
+      I believe that the Council should be more engaged with the ANU community. Recent events have shown that the voice has been powerful. Community-led projects I have been involved with, such as the [ANU Governance Project](https://anugovernance-davidpocock.nationbuilder.com/who_are_we), the [Open Letter by the Professoriate to the ANU Leadership](https://docs.google.com/forms/d/e/1FAIpQLSfIOf7crmg4gpMybVyofusBwUpREmIarNqaiV4tRTZrGZTJDA/viewform) and the [NTEU petition](https://www.megaphone.org.au/petitions/petition-to-anu-council) have made a difference. But we still need a path forward. I will establish a link between the community and the Council to make sure that ANU proceeds on a track that reflects our collective values and priorities. [Share your thoughts!](https://docs.google.com/forms/d/e/1FAIpQLSfiOa9Ce0l4wmBOQvItpUWl-OH237nVPh-wByl36nm2Go97gA/viewform?usp=header)
+
+  - degree: Force real accountability for misconduct. 
+    details: |
+      For serious allegations against leadership, I will move that Council ask the Minister to commission a public, independent review. More broadly, I will use this public pressure to make the case for a sector-wide,legislated integrity commission with the real teeth to enforce its findings.
+  - degree: Establish a principle of 'openness by default'
+    details: |
+      All Council meetings and papers should be livestreamed and public, with secrecy being the rare, publicly justified exception, as is often the practice in the USA. Transparency is a duty to the university students, staff and the Australian taxpayer.
+  - degree: Cap all executive pay
+    details: |
+      Cap all executive pay Executive must be capped at a defined multiple of a professor’s salary to end corporate excesses at the expense of university staff and programs.
 
 experiences:
-  title: Experiences
+  title: Governance and Leadership Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Associate Dean (International), College of Science and Medicine
+    time: 2018-present
+    company: Australian National University, Canberra, Australia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Oversee international education partnerships and research collaborations. Develop strategies to bring more international students to ANU.
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - role: Faculty council member
+    time: 2012 - 2016
+    company: Okinawa Institute of Science and Technology (OIST), Okinawa, Japan
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Helped guide the growth of the new university. Doubled the number of faculty members, established new graduate programs, and set up fundamental university governance system. 
+
+  - role: Graduate student representative on the faculty
+    time: 2007 - 2008
+    company: University of Texas, Austin, USA
+    details: |
+      Represented graduate students in the faculty meetings. Participated in faculty hiring committees. Ph.D. students were granted a vote, which was often the first one cast and decisive
 
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Questions and Answers
+  # intro: >
+  #   A few words about why I'm running for ANU Council
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: How will you represent the interests of students and staff on Council?
+    tagline: A major problem with the Council is that it operates parallel to the interests of the community it serves. I will try to reach out to as many members of our community as possible, to understand their concerns and ideas. During my campaign, I will run a [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfiOa9Ce0l4wmBOQvItpUWl-OH237nVPh-wByl36nm2Go97gA/viewform?usp=dialog) for items the community wants to implement. As a Council member I will also set up regular office hours, so that anyone can come and discuss their issues with me directly.
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Why are you running for ANU Council?
+    tagline: "I grew up in the Soviet Uniton, and lived my formative years in the United States. I don't recognise these places anymore, as they fell under the control of autocratic regimes. I don't want this to happen at my new home, ANU. I want to make sure that our university is run in a transparent and accountable manner, with input from all members of our community."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: Do you support the NTEU-endorsed candidate?
+    tagline: "I am an NTEU member and support its values. However, I am running as an independent candidate, because I believe that at this key junction we need someone with experience, with a long history at ANU and also with university governance. However, I urge you to rank James Blackwell as your second choice."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
